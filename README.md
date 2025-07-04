@@ -3,13 +3,17 @@
   🚀 Full-Stack Developer • Problem Solver
 </p>
 
+
+
 <p align="center">
   <a href="www.linkedin.com/in/dhruv-gupta-8a362b188" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
     <a href="mailto:dhruvgupta9191@gmail.com"><img src="https://img.shields.io/badge/Email-grey?style=flat&logo=gmail" /></a>
     <a href="https://github.com/Dhruv-Gupta01"><img src="https://img.shields.io/github/followers/Dhruv-Gupta01?label=Follow&style=social" />  </a> 
 </p>
 
+
 ---
+
 
 ### 🧠 About Me
 
@@ -23,6 +27,8 @@ const Dhruv = {
   resume: "https://dhruvgupta.dev/resume"
 }
 ```
+
+
 
 
 🚀 Highlight Projects
@@ -40,14 +46,22 @@ Project	Tech Stack	Description
 
 
 
+
 🛠️ Tech Stack
 
 💻 Languages: Java, JavaScript, Python, SQL
+
 ⚙️ Backend: Node.js, Express.js, Spring Boot, FastAPI
+
 🛢️ Databases: MongoDB, MySQL, Redis, PostgreSQL
+
 🌐 Frontend: React.js, Next.js, Angular, HTML, CSS, Tailwind CSS
+
 🔧 Tools: Git, Docker, Postman, BullMQ, Firebase, Vercel, Render
+
 ☁️ Cloud: MongoDB Atlas, Redis Cloud, Upstash, Netlify
+
+
 
 
 
@@ -56,13 +70,19 @@ Project	Tech Stack	Description
 
 
 
+
+
 📫 Contact Me
 
 📩 Email: dhruvgupta9191@gmail.com
+
 💼 LinkedIn: www.linkedin.com/in/dhruv-gupta-8a362b188
 
 
 
+
+
 🧪 Fun Fact
+
 I believe in “learning by building.” Every project I create solves a real-world problem, teaches me something new, and sharpens my craft. 💡
 ⭐️ Thanks for visiting my profile! Don’t forget to follow and connect!
