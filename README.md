@@ -36,6 +36,10 @@ const Dhruv = {
 <h3>Project	Tech Stack & Description</h3>
 
 <p>
+  📊 AI-Powered Web Query Agent :	MERN , Playwright , LLaMA-3 - A browser-based AI query engine that validates, matches, scrapes, summarizes, and caches results
+</p>
+
+<p>
   🔁 Job Importer System	: MERN, Redis, Bull, Cron	 - Scheduled job feed importer using background queue processing and dashboard
 </p>
 
@@ -46,10 +50,6 @@ const Dhruv = {
 
 <p>
   📊 Customer 360 Analysis : 	Python, Pandas, KMeans - RFM-based customer segmentation and product recommendations
-</p>
-
-<p>
-  🌡️ Tapmaan : IoT Monitor	Flutter, Firebase	 - Real-time temperature monitoring IoT dashboard app
 </p>
 
 
