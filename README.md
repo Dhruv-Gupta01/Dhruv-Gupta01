@@ -24,7 +24,7 @@ const Dhruv = {
   skills: ["Java", "Node.js", "React", "MongoDB", "SQL", "Redis", "Spring Boot" , "Angular" , "Express.js"],
   learning: ["System Design", "TypeScript", "DevOps"],
   interests: ["Backend Engineering", "Distributed Systems", "Open Source" , "Cloud"],
-  resume: "https://dhruvgupta.dev/resume"
+  resume: "https://drive.google.com/file/d/1c7SqRFZK0nOUJylJnTT79D0XmsuVI28h/view?usp=sharing"
 }
 ```
 
