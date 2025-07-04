@@ -4,9 +4,9 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/dhruv-gupta-8a362b188" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="mailto:dhruvgupta9191@gmail.com"><img src="https://img.shields.io/badge/Email-grey?style=flat&logo=gmail" /></a>
-  <a href="https://github.com/Dhruv-Gupta01"><img src="https://img.shields.io/github/followers/Dhruv-Gupta01?label=Follow&style=social" /></a>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/dhruv-gupta-8a362b188)
+  [![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:dhruvgupta9191@gmail.com)
+  [![GitHub Followers](https://img.shields.io/github/followers/Dhruv-Gupta01?label=Follow&style=social)](https://github.com/Dhruv-Gupta01)
 </p>
 
 ---
