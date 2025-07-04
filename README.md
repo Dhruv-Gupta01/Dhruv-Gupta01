@@ -28,7 +28,7 @@ const Dhruv = {
 }
 ```
 
-
+---
 
 
 <h2>🚀 Highlight Projects</h2>
@@ -53,45 +53,49 @@ const Dhruv = {
 </p>
 
 
+---
+
+<h2>
+  🛠️ Tech Stack
+</h2>
 
 
+<p>💻 Languages: Java, JavaScript, Python, SQL</p>
 
-🛠️ Tech Stack
+<p>⚙️ Backend: Node.js, Express.js, Spring Boot, FastAPI</p>
 
-💻 Languages: Java, JavaScript, Python, SQL
+<p>🛢️ Databases: MongoDB, MySQL, Redis, PostgreSQL</p>
 
-⚙️ Backend: Node.js, Express.js, Spring Boot, FastAPI
+<p>🌐 Frontend: React.js, Next.js, Angular, HTML, CSS, Tailwind CSS</p>
 
-🛢️ Databases: MongoDB, MySQL, Redis, PostgreSQL
+<p>🔧 Tools: Git, Docker, Postman, BullMQ, Firebase, Vercel, Render</p>
 
-🌐 Frontend: React.js, Next.js, Angular, HTML, CSS, Tailwind CSS
-
-🔧 Tools: Git, Docker, Postman, BullMQ, Firebase, Vercel, Render
-
-☁️ Cloud: MongoDB Atlas, Redis Cloud, Upstash, Netlify
+<p>☁️ Cloud: MongoDB Atlas, Redis Cloud, Upstash, Netlify</p>
 
 
+---
 
 
-
-📈 GitHub Stats
+<h2>📈 GitHub Stats</h2>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Dhruv-Gupta01&show_icons=true&theme=tokyonight" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-Gupta01&layout=compact&theme=tokyonight" width="48%" /> </p>
 
 
 
-
-
-📫 Contact Me
-
-📩 Email: dhruvgupta9191@gmail.com
-
-💼 LinkedIn: www.linkedin.com/in/dhruv-gupta-8a362b188
+---
 
 
 
+<h2>📫 Contact Me</h2>
+
+<p>📩 Email: dhruvgupta9191@gmail.com</p>
+
+<p>💼 LinkedIn: www.linkedin.com/in/dhruv-gupta-8a362b188</p>
 
 
-🧪 Fun Fact
+---
+
+
+<h2>🧪 Fun Fact</h2>
 
 I believe in “learning by building.” Every project I create solves a real-world problem, teaches me something new, and sharpens my craft. 💡
 ⭐️ Thanks for visiting my profile! Don’t forget to follow and connect!
