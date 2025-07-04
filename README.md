@@ -23,3 +23,38 @@ const Dhruv = {
   resume: "https://dhruvgupta.dev/resume"
 }
 ```
+
+
+🚀 Highlight Projects
+
+Project	Tech Stack	Description
+
+
+🔁 Job Importer System	: MERN, Redis, Bull, Cron	 - Scheduled job feed importer using background queue processing and dashboard
+📅 Event Management System : Java, Spring Boot - End-to-end event booking and management platform
+📊 Customer 360 Analysis : 	Python, Pandas, KMeans - RFM-based customer segmentation and product recommendations
+🌡️ Tapmaan : IoT Monitor	Flutter, Firebase	 - Real-time temperature monitoring IoT dashboard app
+
+🛠️ Tech Stack
+💻 Languages: Java, JavaScript, Python, SQL
+⚙️ Backend: Node.js, Express.js, Spring Boot, FastAPI
+🛢️ Databases: MongoDB, MySQL, Redis, PostgreSQL
+🌐 Frontend: React.js, Next.js, Angular, HTML, CSS, Tailwind CSS
+🔧 Tools: Git, Docker, Postman, BullMQ, Firebase, Vercel, Render
+☁️ Cloud: MongoDB Atlas, Redis Cloud, Upstash, Netlify
+
+
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Dhruv-Gupta01&show_icons=true&theme=tokyonight" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-Gupta01&layout=compact&theme=tokyonight" width="48%" /> </p>
+
+
+📫 Contact Me
+
+📩 Email: dhruvgupta.dev@gmail.com
+💼 LinkedIn: linkedin.com/in/dhruv-gupta-dev
+🌐 Website: https://dhruvgupta.dev
+
+
+🧪 Fun Fact
+I believe in “learning by building.” Every project I create solves a real-world problem, teaches me something new, and sharpens my craft. 💡
+⭐️ Thanks for visiting my profile! Don’t forget to follow and connect!
