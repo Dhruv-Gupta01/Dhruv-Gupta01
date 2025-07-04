@@ -31,18 +31,27 @@ const Dhruv = {
 
 
 
-🚀 Highlight Projects
+<h2>🚀 Highlight Projects</h2>
 
-Project	Tech Stack	Description
+<h3>Project	Tech Stack & Description</h3>
+
+<p>
+  🔁 Job Importer System	: MERN, Redis, Bull, Cron	 - Scheduled job feed importer using background queue processing and dashboard
+</p>
+
+<p>
+  📅 Event Management System : Java, Spring Boot - End-to-end event booking and management platform
+</p>
 
 
-🔁 Job Importer System	: MERN, Redis, Bull, Cron	 - Scheduled job feed importer using background queue processing and dashboard
+<p>
+  📊 Customer 360 Analysis : 	Python, Pandas, KMeans - RFM-based customer segmentation and product recommendations
+</p>
 
-📅 Event Management System : Java, Spring Boot - End-to-end event booking and management platform
+<p>
+  🌡️ Tapmaan : IoT Monitor	Flutter, Firebase	 - Real-time temperature monitoring IoT dashboard app
+</p>
 
-📊 Customer 360 Analysis : 	Python, Pandas, KMeans - RFM-based customer segmentation and product recommendations
-
-🌡️ Tapmaan : IoT Monitor	Flutter, Firebase	 - Real-time temperature monitoring IoT dashboard app
 
 
 
