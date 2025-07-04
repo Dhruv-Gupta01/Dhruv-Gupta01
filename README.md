@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhruv Gupta</h1>
 <p align="center">
-  🚀 Full-Stack Developer • Backend Engineer • Problem Solver
+  🚀 Full-Stack Developer • Problem Solver
 </p>
 
 <p align="center">
