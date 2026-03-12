@@ -94,7 +94,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-gupta-8a362b188)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvgupta9191@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-00C9FF?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1c7SqRFZK0nOUJylJnTT79D0XmsuVI28h/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-00C9FF?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1GCad_rRxwXS6TwZHIOv5zRqnhe_PKoPz/view?usp=sharing)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhruv-Gupta01)
 
 </div>
