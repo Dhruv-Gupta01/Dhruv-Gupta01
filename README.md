@@ -19,10 +19,10 @@
 
 ## About Me
 
-- **Software Developer** at **LTI Mindtree**
+- **Software Developer**
 - **Oracle Certified** Java SE 11 Developer
 - Passionate about building full-stack web apps and solving real-world problems
-- Currently exploring **AI-powered tools**, **real-time systems**, and **cloud-native architectures**
+- Expertise in **AI-powered tools**, **real-time systems**, and **cloud-native architectures**
 - Always learning, always shipping
 
 ---
