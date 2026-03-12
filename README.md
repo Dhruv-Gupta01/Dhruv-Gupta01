@@ -19,7 +19,7 @@
 
 ## About Me
 
-- **Software Developer**
+- **Software Developer** at **LTI Mindtree**
 - **Oracle Certified** Java SE 11 Developer
 - Passionate about building full-stack web apps and solving real-world problems
 - Currently exploring **AI-powered tools**, **real-time systems**, and **cloud-native architectures**
@@ -59,12 +59,10 @@
 
 | Project | Tech | Description |
 |---------|------|-------------|
-| [**AI-Powered Web Query Agent**](https://github.com/Dhruv-Gupta01) | ![MERN](https://img.shields.io/badge/MERN-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![LLaMA](https://img.shields.io/badge/LLaMA--3-7B3FE4?style=flat-square) | AI agent that browses the web and answers queries using LLaMA-3 |
-| [**Job Importer System**](https://github.com/Dhruv-Gupta01) | ![MERN](https://img.shields.io/badge/MERN-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Bull](https://img.shields.io/badge/BullMQ-E34F26?style=flat-square) | Automated job import pipeline with Redis queues and cron scheduling |
-| [**Event Management System**](https://github.com/Dhruv-Gupta01) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) | End-to-end event management with Spring Boot REST APIs |
-| [**Customer 360 Analysis**](https://github.com/Dhruv-Gupta01) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![KMeans](https://img.shields.io/badge/KMeans-FF6F00?style=flat-square) | Customer segmentation using KMeans clustering and Pandas |
-
-> Update the project links above to point to the actual repos once available.
+| [**SlideForge**](https://github.com/Dhruv-Gupta01/slideforge) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square) | Browser-based presentation tool with drag-and-drop editing and real-time collaboration |
+| [**LLM Chat App**](https://github.com/Dhruv-Gupta01/llm-chat-app) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![LLaMA](https://img.shields.io/badge/LLaMA--3-7B3FE4?style=flat-square) ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white) | Multi-model chat interface with streaming SSE responses and multi-turn context |
+| [**Collaborative Editor**](https://github.com/Dhruv-Gupta01/collaborative-editor) | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Yjs](https://img.shields.io/badge/Yjs-6EDB8F?style=flat-square) ![Tiptap](https://img.shields.io/badge/Tiptap-1A1A2E?style=flat-square) | Real-time collaborative spreadsheet editor with live cursors and presence |
+| [**Ripplica Query Agent**](https://github.com/Dhruv-Gupta01/ripplica-query-agent) | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![LLaMA](https://img.shields.io/badge/LLaMA--3-7B3FE4?style=flat-square) ![Embeddings](https://img.shields.io/badge/Embeddings-FF6F00?style=flat-square) | AI web query agent with smart vector caching, web scraping, and LLaMA-3 summarization |
 
 ---
 
