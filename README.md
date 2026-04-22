@@ -44,7 +44,6 @@
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,postgres" />
 <br/>
-*(Experienced with Vector Databases like ChromaDB, and open-source models via Groq/HuggingFace)*
 
 **Tools & Platforms**
 
